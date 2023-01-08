@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "jazz",
+        "price": "$1.83",
+        "categoryId": "Music"
+    },
+    {
+        "id": 2,
+        "name": "k-pop",
+        "price": "$2.50",
+        "categoryId": "Music"
+    },
+    {
+        "id": 3,
+        "name": "dry food",
+        "price": "$1.75",
+        "categoryId": "Food"
+    },
+    {
+        "id": 4,
+        "name": "bully sticks",
+        "price": "$1.28",
+        "categoryId": "Treats"
+    },
+    {
+        "id": 5,
+        "name": "wet food",
+        "price": "$2.35",
+        "categoryId": "Food"
+    }
+]
